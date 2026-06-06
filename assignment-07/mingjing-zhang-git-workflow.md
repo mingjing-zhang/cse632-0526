@@ -30,7 +30,7 @@ On branch feature/mingjing-zhang-assignment-07; new file assignment-07/mingjing-
 TODO-PR-URL
 
 ## Latest Commit Hash
-TODO-COMMIT-HASH
+3247979c1a5eea8fe9f26db913abdd9acf82606f
 
 ## Merge Conflict Summary
 Cut branch B from main before merging branch A, so both branches edited README.md line 1. Merging origin/main into branch B produced a conflict on that line, which I resolved to the agreed title and committed.
