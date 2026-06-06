@@ -27,7 +27,7 @@ origin  https://github.com/mingjing-zhang/cse632-0526.git (fetch & push)
 On branch feature/mingjing-zhang-assignment-07; new file assignment-07/mingjing-zhang-git-workflow.md staged for commit.
 
 ## Pull Request URL
-TODO-PR-URL
+https://github.com/mingjing-zhang/cse632-0526/pull/1
 
 ## Latest Commit Hash
 3247979c1a5eea8fe9f26db913abdd9acf82606f
